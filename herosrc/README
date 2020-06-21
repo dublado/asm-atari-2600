@@ -1,0 +1,6 @@
+To compile the H.E.R.O., extract all src files in an empty folder and load "hero.asm" into the WinCPC-Z80 assembler. Press F2 and then type "CALL &100" in the emulator.
+Sorry for this horrible piece of code.
+
+Enjoy :)
+
+Flynn

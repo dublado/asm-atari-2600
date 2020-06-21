@@ -1,0 +1,200 @@
+--- Symbol List (sorted by symbol)
+                         0004                  
+a                        0000 ????         (R )
+acsoundstop              0000                  
+adddecimal               0000                  
+addlevelnr               0000                  
+addpoints                0000                  
+allsoundstop             0000                  
+altcntri                 0005                  
+altcolr1                 000c                  
+altcolr2                 0007                  
+blackout                 0000                  
+bmbsndinit               0002                  
+bombdly                  000f                  
+bottomwater              0040                  
+boumdlyinit              000b                  
+channela                 0008                  
+channelb                 0009                  
+channelc                 000a                  
+clearherobackground      0000                  
+clearlevel               0000                  
+coarsea                  0001                  
+coarseb                  0003                  
+coarsec                  0005                  
+col_flag_bomb            0005              (R )
+col_flag_compltl         0000              (R )
+col_flag_compltr         0001              (R )
+col_flag_enemy           0002              (R )
+col_flag_flashw          0004              (R )
+col_flag_lantern         0003              (R )
+col_flag_water           0006              (R )
+collisiontest            0000                  
+crushcollision           0000                  
+crushctrinit             0001                  
+crushopn                 0000                  
+curlevel                 0190                  
+deletewalls              0000                  
+dlylong                  0078              (R )
+dlyscroll                0006                  
+dlyshort                 003c                  
+downscreen               0000                  
+drawbackground           0000                  
+drawbomb                 0000                  
+drawbombs                0000                  
+drawenemies              0000                  
+drawenergy               0000                  
+drawfire                 0000                  
+drawhero                 0000                  
+drawlevel                0000                  
+drawlifes                0000                  
+drawscore                0000                  
+drawsprite               0000                  
+drawsprite_or            0000                  
+drawtitlescreen          0000                  
+drwendlyinit             0003                  
+drwtentldlyinit          0001                  
+enemy_mask_out           000f                  
+envelope_on              0010                  
+envelope_shape           000d                  
+envperiode_hi            000c                  
+envperiode_lo            000b                  
+eof                      0000                  
+extract_item_bat         0000                  
+extract_item_lantern     0000                  
+extract_item_miner_left  0000                  
+extract_item_miner_right 0000                  
+extract_item_moth        0000                  
+extract_item_raft        0000                  
+extract_item_snake       0000                  
+extract_item_spider      0000                  
+extract_item_tenctacle   0000                  
+fillblock                0000                  
+fillenergy               0000                  
+finea                    0000                  
+fineb                    0002                  
+finec                    0004                  
+flashingwall             0080                  
+flashwalls               0000                  
+fried_lantern            0000                  
+gameloop                 0000                  
+gameover                 0000                  
+getstage                 0000                  
+getstagewithwater        0000                  
+heroback                 0000              (R )
+herodiesbomb             0000                  
+herodlyborderbottom      0000                  
+herodlyborderdzbottom    0005                  
+herodlyborderdztop       000c              (R )
+herodlybordertop         0011              (R )
+herodlymiddle            0008                  
+heroheight               0017                  
+heromove                 0000                  
+heroraftmovedelay        0002                  
+herosilence              0000                  
+hl                       0000 ????         (R )
+initialwallstrength      003f                  
+item_bat                 0006                  
+item_bottm_water         0080                  
+item_lantern_off         0010                  
+item_lantern_on          0010                  
+item_mask_drlev          0010              (R )
+item_mask_out            001f                  
+item_miner_lt            0010                  
+item_miner_rt            0010                  
+item_moth                0004                  
+item_raft                000d                  
+item_snake               0005                  
+item_spider              0003                  
+item_tentacle            000c                  
+itemperlevel             003f                  
+itemrecsize              0015              (R )
+items                    0003              (R )
+joydown                  0001                  
+joyfire                  0004                  
+joyleft                  0002                  
+joyright                 0003                  
+joytst3                  0000                  
+joyup                    0000                  
+lantern_collision        0000                  
+lasersndintl             009b                  
+lasersndintr             009a                  
+laslength                000b                  
+leftscreen               0000                  
+level_finished_lt        0000                  
+level_finished_rt        0000                  
+levelcompleted           0000                  
+lowernextscreen          007f                  
+lssndctri                0004                  
+lvblue                   0017                  
+lvbrown                  000e                  
+lvgreen                  0016                  
+lvgrey                   0000                  
+makerotosound            0000                  
+mixer                    0007                  
+mixer_default            002a                  
+noise                    0006                  
+or                       0000 ????         (R )
+placepoints              0000                  
+plpncninit               0008                  
+pointscounter            0000                  
+pos1                     001b                  
+pos2                     001f                  
+pos3                     0023                  
+pos4                     0027                  
+pos5                     002b                  
+pos6                     002f                  
+posleft                  001b              (R )
+posoffs                  0004              (R )
+powercntrinit            0041                  
+readjoystick             0000                  
+resetgame                0000                  
+rightscreen              0000                  
+savebackground           0000                  
+scrolldelay              0000                  
+selectdingsound          0000                  
+setbackclr               0000                  
+setbackclrswap           0000                  
+setlevelcolour           0000                  
+setscreen                0000                  
+setupactivision          0000                  
+setupbat                 0000                  
+setupcolours             0000                  
+setupcrtc                0000                  
+setupitem                0000                  
+setuplantern             0000                  
+setuplevel               0000                  
+setupminerleft           0000                  
+setupminerright          0000                  
+setupmoth                0000                  
+setuppowerpane           0000                  
+setupraft                0000                  
+setupsnake               0000                  
+setupspider              0000                  
+setuptentacle            0000                  
+setupytab                0000                  
+showlevel                0000                  
+sklblnkinit              0007                  
+sklshow                  0007                  
+soundfull                000f                  
+soundpst                 0000                  
+startgame                0000                  
+swapscreen               0000                  
+swapscroutput            0000                  
+timeover                 0000                  
+topoffset                000a                  
+unblackout               0000                  
+upscreen                 0000                  
+vsyncgap                 0000                  
+waitvsync                0000                  
+wall_mask_crush          0040                  
+wall_mask_flash          0020                  
+water_blue               0033                  
+water_brown              00c3                  
+water_green              000f                  
+water_lava               00cf                  
+writinganimation         0000                  
+wrpsg                    0000                  
+ytab                     0000              (R )
+ziiing                   0000                  
+--- End of Symbol List.
